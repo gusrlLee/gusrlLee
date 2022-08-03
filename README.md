@@ -6,7 +6,6 @@
   <img src="https://img.shields.io/badge/-C-blue?style=flat-square&logo=C&logoColor=white"></a>
   <img src="https://img.shields.io/badge/-C%2B%2B-blue?style=flat-square&logo=C%2B%2B&logoColor=white"></a>
   <img src="https://img.shields.io/badge/-Python-blue?style=flat-square&logo=Python&logoColor=white"></a>
-  <img src="https://img.shields.io/badge/-Swift-blue?style=flat-square&logo=Swift&logoColor=white"></a>
   <img src="https://img.shields.io/badge/-VIM-blue?style=flat-square&logo=Vim&logoColor=white"></a>
   <img src="https://img.shields.io/badge/-CMake-blue?style=flat-square&logo=CMake&logoColor=white"></a></br>
   <img src="https://img.shields.io/badge/-OpenCV-blue?style=flat-square&logo=OpenCV&logoColor=white"></a>
