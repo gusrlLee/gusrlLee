@@ -10,21 +10,6 @@ Email: gusrl3204@gmail.com
 - M.S., Department of Computer Scienece | Sangmyung University, Seoul, Korea _( 2023.03 ~ 2024.08 )_			        		
 - B.S., Department of Electronic Engineering | Sangmyung University, Seoul, Korea _( 2017.03 ~ 2023.02 )_
 
-## Selected Projects
-- **Hybrid CPU-GPU Texture Compression Methodology _( 2022.04 ~ 2023.10 )_**
-  - ETC2 codec을 위한 CPU-GPU Encoding Pipeline 기법 연구
-  - Quality (최대 20% 향상)와 Encoding Speed (최대 10 ~ 1000x) 사이의 Trade-off 개선
-- **Multi-Bounding Volume Hierarchy (MBVH) for Sound Propagation _( 2023.08 ~ 2024.04 )_**
-  - Ray Tracing의 Acceleration Structure로 사용되는 MBVH를 Sound Rendering 적용 연구
-  - Baseline 대비 20 ~ 30%의 성능 개선
-- **AutoDog: Auto Driving System by using LiDAR and Camera _( 2021.11 ~ 2022.11 )_**
-  - RPLiDAR A1, CSI Camera를 이용한 자율 주행 시스템 개발 프로젝트
-  - LiDAR, Camera, Arduino와 통신 및 제어 등 전반적인 SW 개발 담당
-- **Advanced driver-assistance systems (ADAS) Program _( 2021.06 ~ 2022.02 )_**
-  - NVIDIA Jetson Series (Xavier, TX, Nano) 환경에서의 ADAS Program 개발 
-  - Xavier 기준 Real-Time Application (30 FPS) 달성
-  - Collision Detection, Camera 기능 및 각 Thread 제어 담당
-
 ## Publications
 1. **Hyeon-ki Lee** and Jae-Ho Nah, "H-ETC2: Design of a CPU-GPU Hybrid ETC2 Encoder", Computer Graphics Forum (Special Issue of Pacific Graphics 2023), 42(7), 2023, _[(Link)](https://onlinelibrary.wiley.com/doi/10.1111/cgf.14969?af=R), [(Code)](https://github.com/gusrlLee/HETC2)_
 2. **Hyeon-ki Lee**, Hyeju Kim, Dong-Yun Kim, Woo-Chan Park and Jae-Ho Nah, "Considerations for the Acceleration Structure of Sound Propagation on Embedded Devices: Kd-trees versus Multi Bounding Volume Hierarchies", Multimedia Tools and Applications, 2024 (Under review), _[(Demo)](https://www.youtube.com/watch?v=Jvjt7jii3Dc)_
