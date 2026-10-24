@@ -26,6 +26,11 @@ Email: gusrl3204@gmail.com
 - AutoDog: Auto Driving System by using LiDAR and Camera (Nov. 2021 ~ Nov. 2022)
 - Advanced driver-assistance systems (ADAS) Program (Jun. 2021 ~ Feb. 2022)
 
-## Experience
+## EXPERIENCES
+
 - GPU Tech Labs @ Sanmyung University, Seoul, Korea (Apr. 2022 ~  Present) 
 - Creative Contents Labs @ Sanmyung University, Seoul, Korea (Apr. 2021 ~ Mar. 2022)
+
+## AWARDS
+
+- Doctoral Excellence Scholarship in Science and Engineering. Ministry of Science and ICT (MSIT), Republic of Korea. 2026
