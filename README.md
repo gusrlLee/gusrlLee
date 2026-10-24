@@ -2,9 +2,8 @@
 Phone: +82 10-5124-7171  
 Email: gusrl3204@gmail.com  
 
-## PROFILE
-**Keywords**: Neural Rendering, Ray/Path Tracing, Texture Compression   
-**Objective**: Develop or research Real-Time Applications such as Rendering and Ray/Path Tracing by utilizing CPU (Multi-threading, AVX/NEON SIMD Intrinsic) and GPU (Graphics API, GPGPU).
+## RESEARCH PROFILE
+I am aPh.D. student in Computer Science at Sangmyung University. My research focuses on texture compression and high-performance graphics algorithms. My recent work includes GPU-accelerated texture compression and efficient block texture encoding. I am also interested in physically based rendering, neural rendering, and light transport algorithms, particularly for real-time applications.
 
 ## EDUCATION
 - Ph.D. Student, Department of Computer Scienece | Sangmyung University, Seoul, Korea (Mar. 2025 ~ Present)
@@ -31,6 +30,6 @@ Email: gusrl3204@gmail.com
 - GPU Tech Labs @ Sanmyung University, Seoul, Korea (Apr. 2022 ~  Present) 
 - Creative Contents Labs @ Sanmyung University, Seoul, Korea (Apr. 2021 ~ Mar. 2022)
 
-## AWARDS
+## SCHOLARSHPS & AWARDS
 
 - Doctoral Excellence Scholarship in Science and Engineering. Ministry of Science and ICT (MSIT), Republic of Korea. 2026
